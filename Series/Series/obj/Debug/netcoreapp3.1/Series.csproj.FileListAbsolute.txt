@@ -1,0 +1,13 @@
+C:\Users\Patchelli\Documents\PROGRAMAÇÃO\Bootcamp_Everis\Series\Series\bin\Debug\netcoreapp3.1\Series.exe
+C:\Users\Patchelli\Documents\PROGRAMAÇÃO\Bootcamp_Everis\Series\Series\bin\Debug\netcoreapp3.1\Series.deps.json
+C:\Users\Patchelli\Documents\PROGRAMAÇÃO\Bootcamp_Everis\Series\Series\bin\Debug\netcoreapp3.1\Series.runtimeconfig.json
+C:\Users\Patchelli\Documents\PROGRAMAÇÃO\Bootcamp_Everis\Series\Series\bin\Debug\netcoreapp3.1\Series.runtimeconfig.dev.json
+C:\Users\Patchelli\Documents\PROGRAMAÇÃO\Bootcamp_Everis\Series\Series\bin\Debug\netcoreapp3.1\Series.dll
+C:\Users\Patchelli\Documents\PROGRAMAÇÃO\Bootcamp_Everis\Series\Series\bin\Debug\netcoreapp3.1\Series.pdb
+C:\Users\Patchelli\Documents\PROGRAMAÇÃO\Bootcamp_Everis\Series\Series\obj\Debug\netcoreapp3.1\Series.csproj.AssemblyReference.cache
+C:\Users\Patchelli\Documents\PROGRAMAÇÃO\Bootcamp_Everis\Series\Series\obj\Debug\netcoreapp3.1\Series.AssemblyInfoInputs.cache
+C:\Users\Patchelli\Documents\PROGRAMAÇÃO\Bootcamp_Everis\Series\Series\obj\Debug\netcoreapp3.1\Series.AssemblyInfo.cs
+C:\Users\Patchelli\Documents\PROGRAMAÇÃO\Bootcamp_Everis\Series\Series\obj\Debug\netcoreapp3.1\Series.csproj.CoreCompileInputs.cache
+C:\Users\Patchelli\Documents\PROGRAMAÇÃO\Bootcamp_Everis\Series\Series\obj\Debug\netcoreapp3.1\Series.dll
+C:\Users\Patchelli\Documents\PROGRAMAÇÃO\Bootcamp_Everis\Series\Series\obj\Debug\netcoreapp3.1\Series.pdb
+C:\Users\Patchelli\Documents\PROGRAMAÇÃO\Bootcamp_Everis\Series\Series\obj\Debug\netcoreapp3.1\Series.genruntimeconfig.cache
