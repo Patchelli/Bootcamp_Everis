@@ -1,0 +1,9 @@
+C:\Users\Eduar\source\repos\APICatalogoJogos\APICatalogoJogos\obj\Debug\net5.0\APICatalogoJogos - Backup.csproj.AssemblyReference.cache
+C:\Users\Eduar\source\repos\APICatalogoJogos\APICatalogoJogos\obj\Debug\net5.0\APICatalogoJogos - Backup.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eduar\source\repos\APICatalogoJogos\APICatalogoJogos\obj\Debug\net5.0\APICatalogoJogos - Backup.AssemblyInfoInputs.cache
+C:\Users\Eduar\source\repos\APICatalogoJogos\APICatalogoJogos\obj\Debug\net5.0\APICatalogoJogos - Backup.AssemblyInfo.cs
+C:\Users\Eduar\source\repos\APICatalogoJogos\APICatalogoJogos\obj\Debug\net5.0\APICatalogoJogos - Backup.csproj.CoreCompileInputs.cache
+C:\Users\Eduar\source\repos\APICatalogoJogos\APICatalogoJogos\obj\Debug\net5.0\APICatalogoJogos - Backup.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Eduar\source\repos\APICatalogoJogos\APICatalogoJogos\obj\Debug\net5.0\APICatalogoJogos - Backup.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Eduar\source\repos\APICatalogoJogos\APICatalogoJogos\obj\Debug\net5.0\APICatalogoJogos - Backup.RazorAssemblyInfo.cache
+C:\Users\Eduar\source\repos\APICatalogoJogos\APICatalogoJogos\obj\Debug\net5.0\APICatalogoJogos - Backup.RazorAssemblyInfo.cs

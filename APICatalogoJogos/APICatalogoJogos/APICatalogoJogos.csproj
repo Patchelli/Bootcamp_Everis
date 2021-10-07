@@ -1,0 +1,39 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Controllers\V1\NovaPasta\**" />
+    <Compile Remove="NovaPasta1\**" />
+    <Compile Remove="NovaPasta2\**" />
+    <Compile Remove="NovaPasta3\**" />
+    <Compile Remove="NovaPasta4\**" />
+    <Compile Remove="NovaPasta\**" />
+    <Content Remove="Controllers\V1\NovaPasta\**" />
+    <Content Remove="NovaPasta1\**" />
+    <Content Remove="NovaPasta2\**" />
+    <Content Remove="NovaPasta3\**" />
+    <Content Remove="NovaPasta4\**" />
+    <Content Remove="NovaPasta\**" />
+    <EmbeddedResource Remove="Controllers\V1\NovaPasta\**" />
+    <EmbeddedResource Remove="NovaPasta1\**" />
+    <EmbeddedResource Remove="NovaPasta2\**" />
+    <EmbeddedResource Remove="NovaPasta3\**" />
+    <EmbeddedResource Remove="NovaPasta4\**" />
+    <EmbeddedResource Remove="NovaPasta\**" />
+    <None Remove="Controllers\V1\NovaPasta\**" />
+    <None Remove="NovaPasta1\**" />
+    <None Remove="NovaPasta2\**" />
+    <None Remove="NovaPasta3\**" />
+    <None Remove="NovaPasta4\**" />
+    <None Remove="NovaPasta\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="5.6.3" />
+    <PackageReference Include="System.Data.SqlClient" Version="4.8.3" />
+  </ItemGroup>
+
+</Project>
